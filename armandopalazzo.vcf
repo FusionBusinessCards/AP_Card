@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Palazzo;Armando;;;
+FN:Armando Palazzo
+ORG:Fusion Church
+ADR;TYPE=WORK:18 Westage Business Center Dr, Fishkill, NY 12524
+TITLE:Lead Pastor
+TEL;TYPE=CELL:9176923616
+TEL;TYPE=WORK:(845)214-6002
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:armando@fusionchurchny.com
+URL;TYPE=Digital Business Card:https://fusionbusinesscards.github.io/AP_Card/
+URL:fusionchurchny.com
+URL;TYPE=Website:fusionchurchny.com
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100576980
+END:VCARD
